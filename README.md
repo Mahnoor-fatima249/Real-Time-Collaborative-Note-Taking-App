@@ -95,6 +95,4 @@ Real-Time-Collaborative-Note-Taking-App/
 
 See [backend/README.md](backend/README.md) for complete API documentation, WebSocket events, database schema, and more.
 
-## License
 
-ISC
